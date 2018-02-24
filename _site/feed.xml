@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>107</title>
+    <title>每日重启</title>
     <description></description>
-    <link>https://tomens.github.io/</link>
-    <atom:link href="https://tomens.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Dec 2017 14:12:02 +0800</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2017 14:12:02 +0800</lastBuildDate>
+    <link>https://1fun.pw/</link>
+    <atom:link href="https://1fun.pw/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Feb 2018 21:58:49 +0800</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2018 21:58:49 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>我是谁-工程项目经理</title>
-        <description>原来我在这里</description>
-        <pubDate>Mon, 18 Dec 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/12/18/01/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/12/18/01/</guid>
+        <title>2018年年度目标制定</title>
+        <description>新年伊始，树个Flag</description>
+        <pubDate>Sat, 24 Feb 2018 00:00:00 +0800</pubDate>
+        <link>https://1fun.pw/2018/02/24/planyear18/</link>
+        <guid isPermaLink="true">https://1fun.pw/2018/02/24/planyear18/</guid>
         
-        <category>定位</category>
+        <category>计划</category>
         
-        
-        <category>分类</category>
-        
-      </item>
-    
-      <item>
-        <title>思念</title>
-        <description>午夜醒来，失声的落泪</description>
-        <pubDate>Sat, 04 Mar 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/03/04/01/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/03/04/01/</guid>
-        
-        <category>情感</category>
+        <category>目标</category>
         
         
-        <category>随感</category>
+        <category>个人管理</category>
+        
+        <category>年计划</category>
         
       </item>
     
@@ -41,8 +31,8 @@
         <title>心智开启3</title>
         <description>认知的四个区域和认知的四个阶段。</description>
         <pubDate>Sat, 25 Feb 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/02/25/02/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/02/25/02/</guid>
+        <link>https://1fun.pw/2017/02/25/02/</link>
+        <guid isPermaLink="true">https://1fun.pw/2017/02/25/02/</guid>
         
         <category>把时间当做朋友</category>
         
@@ -56,6 +46,8 @@
         
         
         <category>读书笔记</category>
+        
+        <category>入门级</category>
         
       </item>
     
@@ -63,8 +55,8 @@
         <title>心智开启2</title>
         <description>三季人，夏虫不可以语冰。</description>
         <pubDate>Sat, 25 Feb 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/02/25/01/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/02/25/01/</guid>
+        <link>https://1fun.pw/2017/02/25/01/</link>
+        <guid isPermaLink="true">https://1fun.pw/2017/02/25/01/</guid>
         
         <category>把时间当做朋友</category>
         
@@ -78,6 +70,8 @@
         
         
         <category>读书笔记</category>
+        
+        <category>入门级</category>
         
       </item>
     
@@ -85,8 +79,8 @@
         <title>心智开启1</title>
         <description>你的选择决定了你成为什么样的人。</description>
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/02/24/01/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/02/24/01/</guid>
+        <link>https://1fun.pw/2017/02/24/01/</link>
+        <guid isPermaLink="true">https://1fun.pw/2017/02/24/01/</guid>
         
         <category>把时间当做朋友</category>
         
@@ -101,146 +95,25 @@
         
         <category>读书笔记</category>
         
+        <category>入门级</category>
+        
       </item>
     
       <item>
         <title>2017年年度目标制定</title>
         <description>新年伊始，树个Flag</description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2017/02/17/nianjihua/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2017/02/17/nianjihua/</guid>
+        <link>https://1fun.pw/2017/02/17/nianjihua/</link>
+        <guid isPermaLink="true">https://1fun.pw/2017/02/17/nianjihua/</guid>
         
         <category>计划</category>
+        
+        <category>目标</category>
         
         
         <category>个人管理</category>
         
-      </item>
-    
-      <item>
-        <title>个人成长系统-我的一天</title>
-        <description>
-早晨
-
-#0500-0530
-
-起床，15分钟洗刷，15分钟准备。
-
-##0530-0615
-
-准备早餐，使用Keep运动25分钟。唤醒自己的身体，预热这一天良好的状态。一日之计在于晨。
-
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2016/08/29/gerenxitong/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2016/08/29/gerenxitong/</guid>
-        
-        <category>个人成长</category>
-        
-        <category>时间管理</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>005-阅读打卡-204/204-31-如何让想法落地-建立高效办公区</title>
-        <description>
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;05&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-【书名】小强升职记
-
-【页数】173-204
-
-【阅读时长】15minutes
-
-【思考感悟】
-
-九宫格与八卦图，有异曲同工之妙，结合结GTD的6个高度，随时判断自己所在的位置，环境，资源，这也是易经的奥秘之一。
-
-</description>
-        <pubDate>Wed, 17 Aug 2016 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2016/08/17/xqszj5/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2016/08/17/xqszj5/</guid>
-        
-        <category>阅读</category>
-        
-        <category>小强升职记</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>004-阅读打卡-172/204-14-如何养成一个好习惯？</title>
-        <description>
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;04&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-【书名】小强升职记
-
-【页数】159-172
-
-【阅读时长】10minutes
-
-【思考感悟】
-
-关键词：少，慢，人性
-
-</description>
-        <pubDate>Wed, 10 Aug 2016 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2016/08/10/xqszj4/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2016/08/10/xqszj4/</guid>
-        
-        <category>阅读</category>
-        
-        <category>小强升职记</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>003-阅读打卡-158/204-46-行动时遇到问题怎么办</title>
-        <description>
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;03&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-【书名】小强升职记
-
-【页数】113-158
-
-【阅读时长】25minutes
-
-【思考感悟】
-
-关键词：要事，专注，聚焦
-
-</description>
-        <pubDate>Tue, 09 Aug 2016 00:00:00 +0800</pubDate>
-        <link>https://tomens.github.io/2016/08/09/xqszj3/</link>
-        <guid isPermaLink="true">https://tomens.github.io/2016/08/09/xqszj3/</guid>
-        
-        <category>阅读</category>
-        
-        <category>小强升职记</category>
-        
+        <category>年计划</category>
         
       </item>
     

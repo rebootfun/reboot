@@ -9,25 +9,25 @@
 			<key>180224planyear18-2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>541152197.37891495</real>
+				<real>541153391.22578096</real>
 				<key>version</key>
 				<dict>
 					<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
 					<integer>29</integer>
 					<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
-					<integer>23</integer>
+					<integer>28</integer>
 				</dict>
 			</dict>
 			<key>180224planyear18.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>541145717.02501905</real>
+				<real>541153906.54701495</real>
 				<key>version</key>
 				<dict>
 					<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
 					<integer>29</integer>
 					<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
-					<integer>19</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>2016-04-02-jobs-to-grads.markdown</key>
@@ -172,16 +172,6 @@
 					<integer>29</integer>
 					<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
 					<integer>8</integer>
-				</dict>
-			</dict>
-			<key>2017-02-19-nianjihua.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>509245266.59651399</real>
-				<key>version</key>
-				<dict>
-					<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
-					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>2017-02-24-01.md</key>
@@ -348,7 +338,7 @@
 			<string>180224planyear18-2.md</string>
 		</array>
 		<array>
-			<string>2017-02-19-nianjihua.md</string>
+			<string>180224planyear18.md</string>
 		</array>
 		<array>
 			<string>2016-08-10-xqszj4.markdown</string>
@@ -370,9 +360,6 @@
 		</array>
 		<array>
 			<string>2016-08-29-gerenxitong.markdown</string>
-		</array>
-		<array>
-			<string>180224planyear18.md</string>
 		</array>
 		<array>
 			<string>2017-02-24-01.md</string>
@@ -416,7 +403,7 @@
 			<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
 			<integer>29</integer>
 			<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
-			<integer>24</integer>
+			<integer>29</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

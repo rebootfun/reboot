@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict/>
 		<key>sheetClusters</key>
 		<dict/>
 	</dict>
@@ -13,6 +17,11 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
+			<integer>1</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>

@@ -82,6 +82,18 @@
 					<integer>68</integer>
 				</dict>
 			</dict>
+			<key>2018-03-29-Timemanage.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>543987249.88734698</real>
+				<key>version</key>
+				<dict>
+					<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
+					<integer>29</integer>
+					<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
+					<integer>72</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>541145721.79481101</real>
@@ -99,6 +111,9 @@
 		</array>
 		<array>
 			<string>2018-03-16-ReadNote-TheBlackSwan.md</string>
+		</array>
+		<array>
+			<string>2018-03-29-Timemanage.md</string>
 		</array>
 		<array>
 			<string>2017-02-25-02.md</string>
@@ -123,7 +138,7 @@
 			<key>af6e6449ed6f0cf20393294e06675e50232f8a74ee9936709a0844fc006d85b3</key>
 			<integer>29</integer>
 			<key>ddc2126949ee6c32f860db5427f1bb375982765f2e604047efd49e58fc3e00d3</key>
-			<integer>69</integer>
+			<integer>73</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
